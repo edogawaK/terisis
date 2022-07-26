@@ -5,7 +5,7 @@ const BROAD_WIDTH = 600;
     const RC_STYLE = '#000000';
     const cols = BROAD_WIDTH / BLOCK_WIDTH;
     const rows = BROAD_HEIGHT / BLOCK_WIDTH;
-    const speed=100;
+    const speed=500;
     const blockStyles = [
         '#CA955C',
         'pink',
