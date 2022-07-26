@@ -1,0 +1,38 @@
+.game{
+    display: flex;
+    font-family: 'Press Start 2P', cursive;
+}
+.game__info{
+    width: 20%;
+    right: 0;
+    top: 10%;
+}
+.game__title{
+    color: #876445;
+    padding: 10px 0;
+    font-size: larger;
+}
+
+.game__core{
+    padding: 20px 0;
+}
+.game__canvas{
+    width: 50%;
+}
+.game__button{
+    width: 120px;
+    height: 40px;
+    background-color: #CA955C;
+    color: #EDDFB3;
+    border: none;
+    font-weight: 900;
+    letter-spacing: 2px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hide{
+    display: none;
+}
